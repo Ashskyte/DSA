@@ -1,0 +1,10 @@
+1. find middle of linkedList
+1. delete middle of linkedList
+3. detect loop and remove loop
+4. reverse a linkedList (simple and advanced )
+5. linkedList is palindrome or not
+6. delete duplicate in sorted and unsorted list
+7. delete whole linkedList
+8. segregate even and odd nodes in linkedList(without using extra space)
+9. intersection point of two linkedList
+10. sort the linkedList

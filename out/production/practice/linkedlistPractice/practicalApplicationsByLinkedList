@@ -1,0 +1,14 @@
+1. Image viewer –
+Previous and next images are linked, hence can be accessed by next and previous button.
+
+2. Previous and next page in web browser –
+We can access previous and next url searched in web browser by pressing back and next button since,
+they are linked as linked list.
+
+3. Music Player –
+Songs in music player are linked to previous and next song. you can play songs
+either from starting or ending of the list.
+
+4. dynamic memory allocations:We use linked list of free blocks.
+
+5. implementation for graphs ,stack and queues

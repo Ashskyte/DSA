@@ -1,0 +1,8 @@
+
+L
+java:S1197"*Move the array designators [] to the type.(²ì÷âıÿÿÿÿ8‰øŸŞŞ/
+Z
+java:S1659	">Declare "k" and all following declarations on a separate line.(§‡8‘øŸŞŞ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(í´« 8šøŸŞŞ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ¸ßÓ8¥øŸŞŞ/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÜ©Ãøÿÿÿÿ8À›ŸŞŞ/
