@@ -1,6 +1,7 @@
+package heap;
+
 import javafx.util.Pair;
 
-import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class KClosestPairsFromOrigin {

@@ -1,4 +1,5 @@
-import java.util.Comparator;
+package heap;
+
 import java.util.PriorityQueue;
 
 public class SumBetweenK1AndK2SmallestNumber {

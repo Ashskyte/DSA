@@ -1,3 +1,4 @@
+package heap;
 
 public class MinHeapHelper {
   public int getLeftChildIndex(int parentIndex) {
